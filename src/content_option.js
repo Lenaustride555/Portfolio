@@ -1,39 +1,39 @@
-const logotext = "JOHN";
+const logotext = "Neerajit";
 const meta = {
-    title: "John Doe",
-    description: "I’m John Doe data scientist _ Full stack devloper,currently working in Berlin",
+    title: "Neerajit Pandey",
+    description: "I’m Neerajit Pandey final year CSE undergraduate from VIT, Vellore",
 };
 
 const introdata = {
-    title: "I’m John Doe",
+    title: "I’m Neerajit Pandey",
     animated: {
         first: "I love coding",
-        second: "I code cool websites",
-        third: "I develop mobile apps",
+        second: "I develop web apps",
+        third: "I develop ML enabled applications",
     },
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum",
+    description: "An enthusiastic developer specializing in ML/AI projects and web development. Explore my work and join me on this creative journey. Let's build a better future together!",
     your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
 };
 
 const dataabout = {
-    title: "abit about my self",
-    aboutme: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis dolor id ligula semper elementum feugiat pretium nulla. Nunc non commodo dolor. Nunc mollis dignissim facilisis. Morbi ut magna ultricies.",
+    title: "A bit about myself",
+    aboutme: "I'm Neerajit Pandey, a tech enthusiast with a flair for creativity. By day, I delve into the world of ML/AI and web development, crafting solutions that make a difference. By night, you'll find me serenading the keys on a piano or hitting the field for some sports.\nLet's embark on this journey together, merging passion with technology to create remarkable experiences!",
 };
 const worktimeline = [{
-        jobtitle: "Designer of week",
-        where: "YAdfi",
-        date: "2020",
+        jobtitle: "Project Intern",
+        where: "WRITO EDUCATION PRIVATE LIMITED",
+        date: "May 2022 - Jun 2022",
     },
-    {
-        jobtitle: "Designer of week",
-        where: "Jamalya",
-        date: "2019",
-    },
-    {
-        jobtitle: "Designer of week",
-        where: "ALquds",
-        date: "2019",
-    },
+    // {
+    //     jobtitle: "Designer of week",
+    //     where: "Jamalya",
+    //     date: "2019",
+    // },
+    // {
+    //     jobtitle: "Designer of week",
+    //     where: "ALquds",
+    //     date: "2019",
+    // },
 ];
 
 const skills = [{
@@ -136,9 +136,9 @@ const dataportfolio = [{
 ];
 
 const contactConfig = {
-    YOUR_EMAIL: "name@domain.com",
-    YOUR_FONE: "(555)123-4567",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
+    YOUR_EMAIL: "neerajitpandey@gmail.com",
+    YOUR_FONE: "+91 95499 84273",
+    description: "I would love to hear from you! Whether you have a project idea, collaboration proposal, or just want to say hello, feel free to drop me a message. I'm always open to new opportunities and exciting challenges.\n Let's connect and bring your ideas to life. Fill out the form, and I'll get back to you as soon as possible. Looking forward to chatting with you",
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
     YOUR_SERVICE_ID: "service_id",
@@ -147,9 +147,9 @@ const contactConfig = {
 };
 
 const socialprofils = {
-    github: "https://github.com",
+    github: "https://github.com/Lenaustride555",
     facebook: "https://facebook.com",
-    linkedin: "https://linkedin.com",
+    linkedin: "http://www.linkedin.com/in/neerajit-pandey-1a998a201",
     twitter: "https://twitter.com",
 };
 export {
